@@ -1,0 +1,17 @@
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\bin\Debug\ReceviceFileTool.exe.config
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\bin\Debug\ReceviceFileTool.exe
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\bin\Debug\ReceviceFileTool.pdb
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\bin\Debug\HPSocketCS.dll
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\bin\Debug\log4net.dll
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\bin\Debug\log4net.xml
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\obj\Debug\ReceviceFileTool.exe
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\obj\Debug\ReceviceFileTool.pdb
+D:\ProjectDoc\Test\ReceviceFileTool20180203\ReceviceFileTool\obj\Debug\ReceviceFileTool.csprojResolveAssemblyReference.cache
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\ReceviceFileTool.exe.config
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\obj\Debug\ReceviceFileTool.exe
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\obj\Debug\ReceviceFileTool.pdb
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\ReceviceFileTool.exe
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\ReceviceFileTool.pdb
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\HPSocketCS.dll
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\log4net.dll
+D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\log4net.xml

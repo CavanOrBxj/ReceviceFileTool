@@ -1,0 +1,15 @@
+E:\QQXBSVN\Log4netTest\Log4netTest\bin\Debug\Log4netTest.exe.config
+E:\QQXBSVN\Log4netTest\Log4netTest\bin\Debug\Log4netTest.exe
+E:\QQXBSVN\Log4netTest\Log4netTest\bin\Debug\Log4netTest.pdb
+E:\QQXBSVN\Log4netTest\Log4netTest\bin\Debug\log4net.dll
+E:\QQXBSVN\Log4netTest\Log4netTest\bin\Debug\log4net.xml
+E:\QQXBSVN\Log4netTest\Log4netTest\obj\Debug\Log4netTest.csprojResolveAssemblyReference.cache
+E:\QQXBSVN\Log4netTest\Log4netTest\obj\Debug\Log4netTest.exe
+E:\QQXBSVN\Log4netTest\Log4netTest\obj\Debug\Log4netTest.pdb
+D:\接收的文档\Log4netTest\Log4netTest\bin\Debug\Log4netTest.exe.config
+D:\接收的文档\Log4netTest\Log4netTest\obj\Debug\Log4netTest.exe
+D:\接收的文档\Log4netTest\Log4netTest\obj\Debug\Log4netTest.pdb
+D:\接收的文档\Log4netTest\Log4netTest\bin\Debug\Log4netTest.exe
+D:\接收的文档\Log4netTest\Log4netTest\bin\Debug\Log4netTest.pdb
+D:\接收的文档\Log4netTest\Log4netTest\bin\Debug\log4net.dll
+D:\接收的文档\Log4netTest\Log4netTest\bin\Debug\log4net.xml
