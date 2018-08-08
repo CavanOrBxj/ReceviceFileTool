@@ -568,8 +568,9 @@ namespace ReceviceFileTool
                     fs.Close();
                     SingletonInfo.GetInstance().FileDic.Remove(CompleteList[0].FileName);
 
-                    Thread.Sleep(500);
+                    Thread.Sleep(1000);
                     #region   ftp上传
+                    ftppath = filename;
                     ftphelper.UploadFile(path, ftppath);
                     #endregion
 

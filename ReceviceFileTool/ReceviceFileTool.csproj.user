@@ -12,6 +12,6 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>192.168.4.109 30705</StartArguments>
+    <StartArguments>192.168.4.111 8187 192.168.4.65 21 ftpuser 123456abc \</StartArguments>
   </PropertyGroup>
 </Project>
