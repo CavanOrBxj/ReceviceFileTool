@@ -52,7 +52,7 @@ namespace ReceviceFileTool
             ftppwd = args[5];
             ftppath = args[6];
 
-            p.beforeAnalysisQueue = new ConcurrentQueue<byte[]>();
+            p.beforeAnalysisQueue = new ConcurrentQueue<byte[]>();//////////////////////
             p.Init();
             System.Timers.Timer aTimer = new System.Timers.Timer();
             aTimer.Elapsed += new System.Timers.ElapsedEventHandler(TimeEvent);

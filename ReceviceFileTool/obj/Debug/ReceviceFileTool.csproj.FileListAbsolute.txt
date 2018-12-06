@@ -15,3 +15,14 @@ D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\ReceviceFileTool.pdb
 D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\HPSocketCS.dll
 D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\log4net.dll
 D:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\log4net.xml
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\ReceviceFileTool.exe.config
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\ReceviceFileTool.exe
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\ReceviceFileTool.pdb
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\HPSocketCS.dll
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\log4net.dll
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\bin\Debug\log4net.xml
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\obj\Debug\ReceviceFileTool.csprojAssemblyReference.cache
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\obj\Debug\ReceviceFileTool.csproj.CoreCompileInputs.cache
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\obj\Debug\ReceviceFileTool.csproj.CopyComplete
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\obj\Debug\ReceviceFileTool.exe
+E:\GitHub\ReceviceFileTool\ReceviceFileTool\obj\Debug\ReceviceFileTool.pdb
