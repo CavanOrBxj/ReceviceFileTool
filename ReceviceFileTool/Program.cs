@@ -12,7 +12,6 @@ namespace ReceviceFileTool
 {
     class Program
     {
-
         public Thread dealThread;  //数据解析线程
         public NetServer netServer;
         ConcurrentQueue<byte[]> beforeAnalysisQueue;
